@@ -1,0 +1,94 @@
+{
+  "integrated": [
+    {
+      "file": "jetour-t2-interior-cc-by-sa.jpg",
+      "vehicle": "Jetour T2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jetour_T2_interior.jpg",
+      "author": "Milhouse35",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Downloaded through Wikimedia Special:Redirect at 1920 px; no artistic alteration."
+    },
+    {
+      "file": "hero-jetour-africa.webp",
+      "vehicle": "Jetour T2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jetour_T2_in_Milnerton,_Cape_Town.jpg",
+      "author": "Husskeyy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Cropped (right 7%), resized to 2200 px, WebP."
+    },
+    {
+      "file": "jetour-side.webp",
+      "vehicle": "Jetour T2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jetour_T2_in_Milnerton,_Cape_Town.jpg",
+      "author": "Husskeyy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Cropped (right 7%), resized to 1600 px, WebP."
+    },
+    {
+      "file": "jetour-cape-front.webp",
+      "vehicle": "Jetour T2",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Jetour_T2_(Front)_in_Constantia,_Cape_Town.jpg",
+      "author": "Husskeyy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Cropped to landscape, WebP."
+    },
+    {
+      "file": "jetour-cape-rear.webp",
+      "vehicle": "Jetour T2",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Jetour_T2_(Rear)_in_Constantia,_Cape_Town.jpg",
+      "author": "Husskeyy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Cropped to landscape, WebP."
+    },
+    {
+      "file": "jetour-interior.webp",
+      "vehicle": "Jetour T2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jetour_T2_2.0T_Beyond_XWD_interior.jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Top 34% cropped (windshield with bystanders removed), WebP."
+    },
+    {
+      "file": "camry-interior.webp",
+      "vehicle": "Toyota Camry XV80",
+      "source": "https://commons.wikimedia.org/wiki/File:PIMS_2024_-_All-New_Toyota_Camry_HEV_(dashboard).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Top 17% cropped, WebP."
+    },
+    {
+      "file": "chery-interior.webp",
+      "vehicle": "Chery Tiggo 7 Pro",
+      "source": "https://commons.wikimedia.org/wiki/File:Chery_Tiggo_7_II_007.jpg",
+      "author": "Jengtingchen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Cropped (windows with bystanders removed), infotainment screen darkened, WebP."
+    }
+  ],
+  "referenceOnly": [
+    {
+      "source": "https://jetour-ma.com/jetour-jetour-t2",
+      "reason": "Official product reference; no explicit reusable commercial image license found."
+    },
+    {
+      "source": "https://www.jetour.sn/modele/t2",
+      "reason": "Official product reference; all rights reserved and no explicit reusable commercial image license found."
+    },
+    {
+      "source": "https://jetourbr.com/imprensa/",
+      "reason": "Press assets are restricted to editorial and journalistic use; promotional use requires prior written permission."
+    },
+    {
+      "source": "https://www.cardekho.com/jsw-jetour-t2-360-view.htm",
+      "reason": "Interactive reference only; no permission to copy or redistribute its photographs or 360 assets."
+    }
+  ]
+}
