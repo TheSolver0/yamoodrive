@@ -71,6 +71,15 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "changes": "Cropped (windows with bystanders removed), infotainment screen darkened, WebP."
+    },
+    {
+      "file": "hero-camry.webp",
+      "vehicle": "Toyota Camry XV80",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Toyota_Camry_LE,_front_left,_05-24-2025.jpg",
+      "author": "MercurySable99",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Canvas widened to the left with a blurred extension of the background so the car sits on the right; resized to 2600 px, WebP."
     }
   ],
   "referenceOnly": [

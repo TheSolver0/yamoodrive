@@ -6,14 +6,15 @@ export const fleet = [
   { id: 'camry', name: 'Toyota Camry', kind: 'Berline', use: 'Élégante pour vos rendez-vous et transferts aéroport.', seats: 4, consumption: 7.5, indicativePrice: 40000, equipment: ['Climatisation', 'Confort arrière', 'Charge USB'], photos: [['Avant trois quarts', 'camry-front'], ['Arrière trois quarts', 'camry-rear'], ['Profil avant', 'camry-profile']] },
 ]
 
-export const services = ['Location avec chauffeur', 'Mise à disposition', 'Transfert', 'Déplacement professionnel', 'Événement']
+export const services = ['Location avec chauffeur', 'Location sans chauffeur', 'Mise à disposition', 'Transfert', 'Déplacement professionnel', 'Événement']
 export const yamooContact = {
   phone: '+237 672 89 40 84',
   whatsappNumber: (import.meta.env.VITE_YAMOO_WHATSAPP_NUMBER || '237672894084').replace(/\D/g, ''),
 }
 
 export const faqItems = [
-  ['Comment réserver avec chauffeur ?', 'Indiquez vos dates, le lieu de départ, la destination et le nombre de passagers. L’équipe confirme la disponibilité, le chauffeur et le devis sur WhatsApp.'],
+  ['Comment réserver ?', 'Choisissez votre véhicule, vos dates et votre formule (avec ou sans chauffeur). L’équipe confirme la disponibilité et le devis sur WhatsApp.'],
+  ['Puis-je louer sans chauffeur ?', 'Oui. Vous prenez le volant vous-même. Prévoyez votre permis de conduire : les pièces demandées et l’éventuelle caution sont précisées par l’équipe avant la réservation.'],
   ['Quel est le prix de la location ?', 'YAMOO DRIVE annonce des locations à partir de 30 000 FCFA. Le prix dépend du véhicule, de la durée et de votre trajet.'],
   ['Le carburant et les péages sont-ils inclus ?', 'Demandez le détail dans votre devis. Le calculateur donne une estimation du carburant seul.'],
   ['Puis-je voir le véhicule avant de réserver ?', 'Explorez les photos sur le site puis demandez un créneau à Logpom, carrefour ADEM, à Douala.'],
